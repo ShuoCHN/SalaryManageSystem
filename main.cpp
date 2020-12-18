@@ -305,7 +305,7 @@ void ope2()
 			showsal(3,inpid,0);
 			printf("ARE YOU SURE TO DELETE ALL THESE ABOVE?? (press y to confirm, n or anykey to cancle)_____\b\b");
 			char deope;
-			getchar();
+			
 			scanf("%c",&deope);
 			if(deope != 'Y' && deope != 'y')
 			{	
