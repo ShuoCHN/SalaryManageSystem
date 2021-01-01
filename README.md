@@ -1,2 +1,3 @@
 # SalaryManageSystem
- IT design 2020 Computer Science
+ BJFU 2020 Computer Science
+ CopyRight : ShuoCHN
